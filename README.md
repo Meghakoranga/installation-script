@@ -1,6 +1,5 @@
 # Installation-script 
-1. [Installation of docker](https://github.com/Meghakoranga/installation-script/tree/master#1-installation-of-docker)
-1. [Installation of  kubectl kubeadm and kubelet]( https://github.com/Meghakoranga/installation-script/edit/master/README.md#2-insatllation-of-kubectl-kubeadm-and-kubelet)
+
 ## 1. Installation of docker
   ```
   sudo apt-get update
